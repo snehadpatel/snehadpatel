@@ -165,7 +165,7 @@ Biomedical AI
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadpatel&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=snehadpatel&theme=tokyonight&hide_border=true"/>
 
 </p>
 
