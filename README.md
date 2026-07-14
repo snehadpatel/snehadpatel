@@ -79,18 +79,6 @@ Java + MySQL desktop application for bakery inventory and order management.
 
 <br>
 
-## GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snehadpatel&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehadpatel&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/snehapatel05?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
-
-<br>
 
 ## Currently Learning
 
