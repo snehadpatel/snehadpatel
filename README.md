@@ -19,7 +19,7 @@
 
 I'm a B.Tech Computer Science student focused on **AI, Machine Learning, and Computer Vision** — I like building systems that go from research idea to working product. Currently deepening my skills in **LLMs, RAG pipelines, and cloud deployment (AWS)**.
 
-**🎯 Currently open to:** ML/AI Engineer, Computer Vision, and Applied ML internships/new-grad roles
+**Currently open to:** ML/AI Engineer, Computer Vision, and Applied ML internships/new-grad roles
 
 <br>
 
@@ -55,14 +55,14 @@ Computer vision + IoT system that automatically classifies and sorts waste in re
 
 **[🔗 Live Demo](#) · [💻 Code](#)**
 
-### 📊 Suicide Risk Prediction Model
+### Suicide Risk Prediction Model
 ML pipeline trained on 100k+ health records to identify risk indicators for early intervention.
 - XGBoost classifier with engineered clinical/behavioral features
 - *Impact: [add model accuracy/F1/AUC — this is your strongest quantifiable project, make the number visible]*
 
 **[💻 Code](#)**
 
-### 🍰 BakeMyDay
+### BakeMyDay
 Java + MySQL desktop application for bakery inventory and order management.
 - Full CRUD inventory system with order processing workflow
 - *Impact: [e.g. "reduced manual order-tracking steps from X to Y"]*
