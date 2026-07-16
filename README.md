@@ -2,9 +2,7 @@
 
 # Hi, I'm Sneha 👋
 
-### AI / ML Engineer building applied computer vision & LLM systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+LLMs+%7C+RAG;Open+to+ML%2FAI+roles" />
+### AI/ML Engineer — I build things that see, read, and reason
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-patel-a0ba14212/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://snehapatel.vercel.app/)
@@ -15,81 +13,46 @@
 
 <br>
 
-## About Me
+## About me
 
-I'm a B.Tech Computer Science student focused on **AI, Machine Learning, and Computer Vision** — I like building systems that go from research idea to working product. Currently deepening my skills in **LLMs, RAG pipelines, and cloud deployment (AWS)**.
+I'm a CS student, mostly focused on AI/ML and computer vision right now. I like building stuff that actually does something - not just notebooks that end at a confusion matrix. Lately I've been getting into LLMs and RAG, and trying to get better at deploying things on AWS instead of just running them locally.
 
-**Currently open to:** ML/AI Engineer, Computer Vision, and Applied ML internships/new-grad roles
+Open to ML/AI engineer roles, computer vision work, and applied ML internships.
 
 <br>
 
 ## Skills
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**ML / CV:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111111?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Web/Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- **Languages:** Python, Java, C++, JavaScript
+- **ML/CV:** TensorFlow, scikit-learn, OpenCV, YOLO, Pandas, NumPy
+- **Web/Backend:** React, Flask, Node.js
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, VS Code, Jupyter
 
 <br>
 
-## Featured Projects
+## Projects
 
-### 🧠 Literature Intelligence Platform
-AI-powered research assistant using LLMs + Retrieval-Augmented Generation to help researchers explore and query scientific literature.
-- Semantic search over research papers with context-aware Q&A
-- RAG pipeline for grounded, hallucination-resistant answers
-- *Impact: [add a number here — e.g. "cut literature review time by X%" or "indexed X papers"]*
+**Literature Intelligence Platform** - a RAG-based assistant that lets you search and ask questions over research papers instead of reading them cover to cover.
 
-**[🔗 Live Demo](#) · [💻 Code](#)**
+**NeuraBin** - a smart waste bin that sorts trash automatically using YOLO for detection plus some sensor logic to control the actual sorting.
 
-### ♻️ NeuraBin — Smart Waste Segregation System
-Computer vision + IoT system that automatically classifies and sorts waste in real time.
-- YOLO-based object detection for waste classification
-- Sensor-integrated smart bin automation
-- *Impact: [add accuracy %, detection speed, or a pilot/deployment result]*
+**Suicide Risk Prediction Model** - trained an XGBoost model on 100k+ health records to flag early risk indicators.
 
-**[🔗 Live Demo](#) · [💻 Code](#)**
+**BakeMyDay** - a Java + MySQL desktop app for a bakery to manage inventory and orders.
 
-### Suicide Risk Prediction Model
-ML pipeline trained on 100k+ health records to identify risk indicators for early intervention.
-- XGBoost classifier with engineered clinical/behavioral features
-- *Impact: [add model accuracy/F1/AUC — this is your strongest quantifiable project, make the number visible]*
-
-**[💻 Code](#)**
-
-### BakeMyDay
-Java + MySQL desktop application for bakery inventory and order management.
-- Full CRUD inventory system with order processing workflow
-- *Impact: [e.g. "reduced manual order-tracking steps from X to Y"]*
-
-**[💻 Code](#)**
-
-> 💡 Tip: Add real, specific numbers (accuracy, dataset size, latency, users, % improvement) to each "Impact" line above — this is what separates a "cool project" from a "hire this person" project in a recruiter's eyes.
+Code/demos are linked from my [portfolio](https://snehapatel.vercel.app/).
 
 <br>
 
-## Research Interests
+## Currently learning
 
-`Computer Vision` · `Large Language Models` · `Explainable AI` · `AI for Sustainability` · `Biomedical AI`
-
-<br>
-
-
-## Currently Learning
-
-`LLMs` · `LangChain` · `Advanced RAG` · `AWS` · `Docker`
+LLMs, LangChain, Advanced RAG, AWS, Docker
 
 <br>
 
 <div align="center">
 
-### 📫 Let's connect — I'm always happy to talk about AI/ML roles, research, or collaboration.
-
-⭐ Thanks for stopping by!
+Feel free to reach out if you want to talk AI/ML, research, or just connect.
 
 </div>
